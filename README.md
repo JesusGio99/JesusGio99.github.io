@@ -1,1 +1,1 @@
-This is a simple website for gio-jpg, a student.
+This is a simple website.
